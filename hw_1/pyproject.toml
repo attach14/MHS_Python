@@ -1,0 +1,8 @@
+[project]
+name = "HW_1"
+version = "0.1.0"
+description = "HW_1"
+authors = [
+    { name="Кирилл Лобанов", email="kslobanov@edu.hse.ru" }
+]
+requires-python = ">=3.6"
