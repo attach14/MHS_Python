@@ -1,0 +1,6 @@
+latex_gen.py
+pyproject.toml
+hw2latexpypi.egg-info/PKG-INFO
+hw2latexpypi.egg-info/SOURCES.txt
+hw2latexpypi.egg-info/dependency_links.txt
+hw2latexpypi.egg-info/top_level.txt

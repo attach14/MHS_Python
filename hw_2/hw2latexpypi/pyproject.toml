@@ -1,0 +1,8 @@
+[project]
+name = "hw2latexpypi"
+version = "0.1.2"
+description = "hw2latexpypi"
+authors = [
+    { name="Кирилл Лобанов", email="kslobanov@edu.hse.ru" }
+]
+requires-python = ">=3.6"
