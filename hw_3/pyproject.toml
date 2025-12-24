@@ -1,0 +1,11 @@
+[project]
+name = "HW_3"
+version = "0.1.0"
+description = "HW_3"
+authors = [
+    { name="Кирилл Лобанов", email="kslobanov@edu.hse.ru" }
+]
+requires-python = ">=3.6"
+dependencies = [
+    "numpy"
+]

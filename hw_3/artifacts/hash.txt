@@ -1,0 +1,3 @@
+hash(AB) = 5
+hash(CD_true) = 5
+hash(CD_cached) = 5
